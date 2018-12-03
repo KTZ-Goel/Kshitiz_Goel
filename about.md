@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Introduce yourself here... so people will know who you are and what you do.. blah..blah..blah..
+My name is Kshitiz Goel. I am a final year student in Indian Institute of Technology, Kharagpur. I am doing my Bachelor's in Electronics and Communication Engineering. I love trekking and chai and also friends and my girlfriend too <3.
