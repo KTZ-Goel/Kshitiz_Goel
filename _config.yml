@@ -39,6 +39,8 @@ plugins:
 navbar:
   - slug : about
     title: About
+  - slug : work experience
+    title: Work Experience
   - slug : blog
     title: Blog
 
